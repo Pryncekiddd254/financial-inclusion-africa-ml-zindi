@@ -63,21 +63,55 @@ Person uniqueid_6065 x Kenya — Predicted: UNBANKED
 
 ---
 
-## 📊 SHAP Feature Importance
+## 📊 SHAP Storytelling
+
+<table>
+  <tr>
+    <td>
+      <img src="outputs/shap_bar_importance.png" alt="SHAP Bar Importance" width="350"/>
+      <p align="center"><i>Feature importance: Cellphone Access is the top actionable barrier.</i></p>
+    </td>
+    <td>
+      <img src="outputs/14_barrier_distribution.png" alt="Barrier Distribution" width="350"/>
+      <p align="center"><i>Distribution of barriers: Infrastructure and mobile access dominate.</i></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧩 Simulator Demo
 
 <p align="center">
-  <img src="outputs/shap_bar_importance.png" alt="SHAP Feature Importance" width="780"/>
+  <img src="outputs/intervention_simulator.png" alt="Policy Intervention Simulator" width="700"/>
 </p>
-<p align="center"><i>Notice how Cellphone Access has a higher SHAP value than Education; this suggests that infrastructure is a greater barrier to entry than literacy in these regions.</i></p>
+<p align="center"><i>This simulator demonstrates how the model translates predictions into actionable policy interventions for each individual.</i></p>
 
-Top drivers of financial exclusion (from SHAP analysis):
+---
 
-1. **Cellphone access** — No mobile = no banking pathway. The #1 actionable barrier.
-2. **Country (Tanzania)** — Being in Tanzania is itself a significant structural barrier.
-3. **Inclusion score** — Low composite of employment + education + mobile + urban = excluded.
-4. **Age × Education** — Young AND uneducated = highest exclusion risk.
-5. **Employment type** — Formal employment unlocks banking; no income locks it out.
-6. **Gender** — Men consistently more banked, signalling structural gender barriers.
+## 🌐 Social Proof & Links
+- [LinkedIn](https://www.linkedin.com/in/kelvinbyabato/)  
+- [Zindi Profile](https://zindi.africa/users/kelvin_byb)  
+- [GitHub](https://github.com/Byabato)
+
+---
+
+## 🔄 Reproducibility Statement
+This project was developed on Lightning AI Studios for consistent environment management and A100 GPU acceleration.
+
+---
+
+## 🚦 Future Roadmap
+- Integrate geospatial data to identify banking deserts
+- Expand to more countries and time periods
+- Deploy as a real-time policy dashboard for governments
+
+---
+
+## 🧠 Key Learnings
+- Translating model coefficients into policy recommendations
+- Handling high-cardinality categorical data in East African contexts
+- Building reproducible, scalable ML pipelines for social impact
 
 ---
 
@@ -175,3 +209,10 @@ To run or reproduce:
 - Clone the repo to your Lightning AI Studios workspace
 - Install dependencies from requirements.txt
 - Launch notebooks or scripts as needed
+
+## 🔍 Deep-Dive: The State of Exclusion
+<p align="center">
+  <img src="outputs/02_inclusion_by_country.png" alt="Inclusion by Country" width="350"/>
+  <img src="outputs/05_mobile_vs_banking.png" alt="Mobile vs Banking" width="350"/>
+  <img src="outputs/06_gender_gap.png" alt="Gender Gap" width="350"/>
+</p>
