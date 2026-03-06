@@ -1,14 +1,5 @@
-theme: jekyll-theme-cayman
-title: Financial Inclusion ML | Kelvin Byabato
-description: >
-  End-to-end ML pipeline with SHAP Explainability & Policy Intervention Simulator
-  for Financial Inclusion in East Africa. Stacking Ensembles, Optuna, CatBoost, XGBoost, LightGBM.
+title: Financial Inclusion in Africa
+description: Predictive ML, Explainable AI and Policy Intervention Simulator for East Africa.
 show_downloads: false
-google_analytics:
-
 plugins:
   - jekyll-seo-tag
-
-author:
-  name: Kelvin Byabato
-  url: https://www.linkedin.com/in/kelvin-byabato
